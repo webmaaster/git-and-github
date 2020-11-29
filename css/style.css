@@ -1,0 +1,11 @@
+body {
+  background-color: lightcyan;
+  margin: 100px;
+  padding: 50px;
+  border: 5px red solid;
+}
+
+h1, h2 {
+  background-color: yellow;
+  color: crimson;
+}
