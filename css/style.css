@@ -11,3 +11,9 @@ h1, h2 {
   background-color: yellow;
   color: crimson;
 }
+
+ol, li {
+  font-size: 35px;
+  color: blueviolet;
+
+}
