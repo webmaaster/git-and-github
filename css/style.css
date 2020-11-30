@@ -3,6 +3,8 @@ body {
   margin: 100px;
   padding: 50px;
   border: 5px red solid;
+  width: 100%;
+  height: 1200px;
 }
 
 h1, h2 {
